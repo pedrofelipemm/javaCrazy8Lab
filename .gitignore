@@ -1,4 +1,11 @@
+# Java compiled files
 *.class
+target/
+
+# Eclipse configuration files
+.classpath
+.project
+.settings/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
